@@ -1,0 +1,30 @@
+.div1{
+    background-color: rgb(231, 150, 50);
+    height: 30px;
+}
+.para{
+    color: rgb(10, 10, 10);
+
+}
+h1{
+background-color: rgb(255, 255, 255);
+width: 10px;
+padding-left: 479px;
+padding-bottom: 70px;
+text-decoration: underline;
+}
+.img1{
+    background-image: url(https://xanders.pk/wp-content/uploads/2022/02/CHICKEN-QUESADILLAS.png);
+    background-size: 300px;
+    height: 300px;
+    width: 500px;
+    background-repeat: no-repeat;
+    margin-left: 4px;
+    margin-bottom: 5px;
+}
+.wrap{
+margin-left: 90px;;
+background-color: blue;
+font-size: 20px;
+
+}

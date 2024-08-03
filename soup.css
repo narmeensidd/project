@@ -1,0 +1,467 @@
+.MENUS{
+  background-color: rgb(255, 254, 254);
+  width: 500px;
+  height: 3px;
+  padding-left: 450px;
+  padding-top: 5px;
+  font-size: 45px;
+font-family: serif;
+text-decoration: underline;
+color: rgb(128, 194, 4);
+}
+.img1{
+    background-image: url(https://xanders.pk/wp-content/uploads/2022/08/MUSHROOM-SOUP-1024x1024.png);
+    height: 300px;
+    position: static;
+    background-size: 250px;
+    background-repeat: no-repeat;
+margin-top: 70px;
+    margin-left: 79px;
+}
+.img1 h1{
+    position: absolute;
+  margin-left: 300px;
+}
+.p{
+    color: rgb(8, 8, 8);
+    padding-inline-start: 300px;
+   position: absolute;
+   top: 25%;
+   font-size: 30px;
+}
+.order{
+  list-style: none;
+  border: 2px solid rgb(10, 10, 10);
+    margin: 0;  
+    padding: 0;
+    font-size: 30px;
+    position: absolute;
+    top: 55%;
+    right: 45%;
+    border: 2px solid rgb(10, 10, 10);
+    z-index: 5;}
+    li a{
+      text-decoration: none;
+    }
+   .order li a :hover{  
+    border-color: 2px 2px 5px #f0a607e0;
+  } 
+  .parent{
+    position: relative;
+    height: 900px;
+  }
+    .hi7{
+background-image: url(https://xanders.pk/wp-content/uploads/2022/02/CLEAR-LEMONGRASS-SOUP-WITH-CHICKEN-VEGETABLES-600x600.png);
+background-size: 270px;
+height: 900px;
+background-repeat: no-repeat;
+position: absolute;
+margin-top: 290px;
+  left: 25px;
+  width: 1000px;
+}
+.hi7 h2
+{
+  position: absolute;
+margin-left: 300px;}
+.p2{color: rgb(8, 8, 8);
+  padding-inline-start: 279px;
+ max-width: 700px;
+ position: absolute;
+ top: 5.8%;
+ font-size: 30px;
+ z-index: 8;
+}
+li a{
+  text-decoration: none;
+}order li a :hover{  
+  border-color: 2px 2px 5px #f0a607e0;
+} 
+
+.o2{
+  list-style: none;
+    display: flex; 
+   border: 2px solid rgb(10, 10, 10);
+    justify-content: center;
+    margin: 0;  
+    padding: 0;
+    font-size: 30px;
+    position: absolute;
+    top: 110%;
+    right: 40%;
+    } 
+    .parent2{
+      position: relative;
+      height: 1100px;
+    }
+    .IMG3{
+      background-image: url(https://xanders.pk/wp-content/uploads/2022/06/MUSHROOM-BROTH-SOUP.png);
+      background-size: 270px;
+height: 500px;
+background-repeat: no-repeat;
+position: absolute;
+top: 320px;
+margin-bottom: 500px;
+left: 30px;
+width: 520px;
+    }
+    .P3{
+      min-width: 700px;
+      font-size: 30px;
+      position: absolute;
+      left: 270px;
+      top: 70px;
+    }
+    .SHRIMP{
+      min-width: 700px;
+    }
+    .order4{
+      list-style: none;
+      display: flex; 
+     border: 2px solid rgb(10, 10, 10);
+      justify-content: center;
+      margin: 0;  
+      padding: 0;
+      font-size: 30px;
+      position: absolute;
+      top: 110%;
+      right: 60%;
+    }
+    li a{
+      text-decoration: none;
+    }
+    .order li a :hover{  
+      border-color: 2px 2px 5px #f0a607e0;
+    } 
+    .parent6{
+      position: relative;
+      height: 1100px;
+    }
+    .img5{
+      background-image: url(https://xanders.pk/wp-content/uploads/2022/02/ROASTED-TOMATO-SOUP-WITH-CORN-BASIL.png);
+      background-size: 270px;
+height: 1100px;
+background-repeat: no-repeat;
+position: absolute;
+top: 280px;
+right: 80%;
+width: 400px;
+    }
+    .h5{
+      min-width: 700px;
+      font-size: 30px;
+      position: absolute;
+      left: 10x;
+      top: 10px;
+    }
+    .parent7{
+position: relative;
+    }
+    .des3{ 
+      font-size: 30px;
+      position: absolute;
+      min-width: 700px;
+      font-size: 30px;
+      position: absolute;
+      left: 270px;
+      top: 70px;
+    }
+    .button{
+      list-style: none; 
+     border: 2px solid rgb(10, 10, 10);
+      justify-content: center;
+      color: blue;
+      text-decoration: none;
+      margin: 0;  
+      padding: 0;
+      font-size: 30px;
+      position: absolute;
+   left: 80px;
+    }
+    li a{
+      text-decoration: none;
+    }
+    .order li a :hover{  
+      border-color: 2px 2px 5px #f0a607e0;
+    } 
+  .img90{
+    background-image: url(https://xanders.pk/wp-content/uploads/2022/02/CHICKEN-QUESADILLAS.png);
+    background-size: 270px;
+    height: 1100px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 300px;
+    right: 2%;
+    width: 400px;
+  }
+  .CHICKEN{
+    font-size: 30px;
+min-width: 700px;
+      position: absolute;
+      left: 20x;
+      top: 10px;
+  }
+  .wrap{
+    font-size: 30px;
+      position: absolute;
+      min-width: 700px;
+      font-size: 30px;
+      position: absolute;
+      left: 270px;
+      top: 50px;
+  }
+  .button8{
+    list-style: none; 
+    border: 2px solid rgb(10, 10, 10);
+     justify-content: center;
+     margin: 0;  
+     padding: 0;
+     font-size: 30px;
+     position: absolute;
+   top: 300px;
+  left: 360px;
+  min-width: 220px;
+  }
+  li a{
+    text-decoration: none;
+  }
+  .order li a :hover{  
+    border-color: 2px 2px 5px #f0a607e0;
+  } 
+  .image77{
+    background-image: url(https://xanders.pk/wp-content/uploads/2022/02/PRAWN-TEMPURA.png);
+    background-size: 270px;
+    height: 1100px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 300px;
+    right: 2%;
+    width: 400px;
+
+  }
+  .prawn{
+    font-size: 30px;
+    position: absolute;
+    min-width: 700px;
+    font-size: 30px;
+    position: absolute;
+    left: 20px;
+    top: 25px;
+  }
+  .desp{
+    font-size: 30px;
+      position: absolute;
+      min-width: 700px;
+      font-size: 30px;
+      position: absolute;
+      left: 270px;
+      top: 50px;
+  }
+  .prawn67{
+    list-style: none; 
+    border: 2px solid rgb(10, 10, 10);
+     justify-content: center;
+     margin: 0;  
+     padding: 0;
+     font-size: 30px;
+     position: absolute;
+   top: 300px;
+  left: 360px;
+  min-width: 220px;
+  }
+  li a{
+    text-decoration: none;
+  }
+  .order li a :hover{  
+    border-color: 2px 2px 5px #f0a607e0;
+  } 
+.fries{
+  background-image: url(https://th.bing.com/th/id/OIP.AHdsjvtDknS6dX8zPElnyQHaHa?w=626&h=626&rs=1&pid=ImgDetMain);
+  background-size: 270px;
+    height: 1100px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 650px;
+    right: 10%;
+    width: 400px;
+}
+.friesh1{
+  font-size: 30px;
+    position: absolute;
+    min-width: 700px;
+    font-size: 30px;
+    position: absolute;
+    left: 10px;
+    top: 25px;
+}
+.friesdes{
+  font-size: 30px;
+  position: absolute;
+  min-width: 700px;
+  font-size: 30px;
+  position: absolute;
+  left: 270px;
+  top: 50px;
+}
+.friesorder{
+  list-style: none; 
+    border: 2px solid rgb(10, 10, 10);
+     justify-content: center;
+     margin: 0;  
+     padding: 0;
+     font-size: 30px;
+     position: absolute;
+   top: 300px;
+  left: 360px;
+  min-width: 220px;
+}
+li a{
+  text-decoration: none;
+}
+.order li a :hover{  
+  border-color: 2px 2px 5px #f0a607e0;
+} 
+.mangoimage{                               
+  background-image: url(https://xanders.pk/wp-content/uploads/2023/06/Mango-Salad.png);
+    background-size: 270px;
+    height: 1100px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 1000px;
+    left: 6%;
+}
+.mangoh1{
+  font-size: 30px;
+  position: absolute;
+  min-width: 700px;
+  font-size: 30px;
+  position: absolute;
+  left: 10px;
+  top: 25px}
+  .saladorder{
+    list-style: none; 
+    border: 2px solid rgb(10, 10, 10);
+     justify-content: center;
+     margin: 0;  
+     padding: 0;
+     font-size: 30px;
+     position: absolute;
+   top: 400px;
+  left: 360px;
+  min-width: 220px;
+  }
+  li a{
+    text-decoration: none;
+  }
+.pizza{
+  background-image: url(https://xanders.pk/wp-content/uploads/2022/11/CREAMY-CHICKEN-PIZZA_.png);
+  background-size: 270px;
+height: 1100px;
+background-repeat: no-repeat;
+position: absolute;
+top: 400px;
+right: 20%;
+width: 400px;
+}
+.pizzah1{
+  font-size: 30px;
+  position: absolute;
+  min-width: 700px;
+  font-size: 30px;
+  position: absolute;
+  left: 10px;
+  top: 30px
+}
+  .pizzades{
+    font-size: 30px;
+    position: absolute;
+    min-width: 700px;
+    font-size: 30px;
+    position: absolute;
+    left: 270px;
+    top: 50px;
+  }
+  .pizzaorder{
+    list-style: none; 
+    border: 2px solid rgb(10, 10, 10);
+     justify-content: center;
+     margin: 0;  
+     padding: 0;
+     font-size: 30px;
+     position: absolute;
+   top: 300px;
+  left: 360px;
+  min-width: 220px;
+  }
+  li a{
+    text-decoration: none;
+  }
+  .order li a :hover{  
+    border-color: 2px 2px 5px #f0a607e0;
+  } 
+  .hunter{
+   background-image: url(https://xanders.pk/wp-content/uploads/2022/08/CHICKEN-CROISSANT-SANDWICH-WITH-HONEY-MUSTARD.png);
+    background-size: 270px;
+    height: 1100px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 320px;
+    right: 5%;
+    width: 400px;
+  }
+  .hunterh1{
+    font-size: 30px;
+    position: absolute;
+    min-width: 700px;
+    font-size: 30px;
+    position: absolute;
+    left: 10px;
+    top: 30px
+  }
+  .hunterdes{
+   font-size: 30px;
+    position: absolute;
+    min-width: 700px;
+    font-size: 30px;
+    position: absolute;
+    left: 270px;
+    top: 50px;
+  }
+.hunterorder{
+  list-style: none; 
+   color: rgb(243, 226, 226)
+   ;
+   text-decoration: none;
+     justify-content: center;
+     margin: 0;  
+     padding: 0;
+     font-size: 30px;
+     position: absolute;
+   top: 300px;
+  left: 360px;
+  min-width: 220px;
+  border: 2px solid rgb(10, 10, 10);
+}
+.order li a :hover{  
+  border-color: 2px 2px 5px #f0a607e0;
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
